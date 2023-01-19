@@ -10,4 +10,9 @@
 ### Route des informations d'un produit en fonction de sa devise et de son id
 ![](https://i.ibb.co/kQ79wry/evo2-1.png)
 ### Méthode devise
-![](https://i.ibb.co/4swSvHY/evo2-2.png)
+![](https://i.ibb.co/KDYN7D9/evo2-2.png)
+### Cas devise = "EUR"
+<p>Remarque : La devise "EUR" ne modifie pas le prix du produit en supposant que la donnée stockée dans la table "Produits" est initialement en euros.</p>
+![](https://i.ibb.co/h1RvwC3/evo2-3.png)
+# Evolution 3 : 
+### 
