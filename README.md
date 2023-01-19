@@ -9,4 +9,8 @@
 ![](https://i.ibb.co/2y7h2LT/evo1-5.png)
 ### Route créé et prix changé d'un produit en fonction de la devise dans l'url /idProduit/devise
 ![](https://i.ibb.co/SBbPBQd/evo2-1.png)
-![](https://ibb.co/X5RNJzM)
+![](https://i.ibb.co/qgQX1RV/evo-2-2.png)
+#### Devise en EUR
+![](https://i.ibb.co/tHC9jbj/evo-2-3.png)
+#### Devise en USD
+![](
