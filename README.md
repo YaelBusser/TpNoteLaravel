@@ -36,5 +36,3 @@ Remarque : La devise "EUR" ne modifie pas le prix du produit en supposant que la
 
 Evolution 3 :
 -------------
-
-.red{ color: red }
