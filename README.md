@@ -12,7 +12,7 @@
 ### Méthode devise
 ![](https://i.ibb.co/KDYN7D9/evo2-2.png)
 ### Cas devise = "EUR"
-<p>Remarque : La devise "EUR" ne modifie pas le prix du produit en supposant que la donnée stockée dans la table "Produits" est initialement en euros.</p>
+<p style="color: red">Remarque : La devise "EUR" ne modifie pas le prix du produit en supposant que la donnée stockée dans la table "Produits" est initialement en euros.</p>
 
 ![](https://i.ibb.co/h1RvwC3/evo2-3.png)
 
