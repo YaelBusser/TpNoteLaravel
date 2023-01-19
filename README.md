@@ -7,3 +7,6 @@
 ### Ajout d'une route retournant l'API des clients avec son identifiant twitter
 ![](https://i.ibb.co/6mCVDx0/evo1-4.png)
 ![](https://i.ibb.co/2y7h2LT/evo1-5.png)
+### Route créé et prix changé d'un produit en fonction de la devise dans l'url /idProduit/devise
+![](https://i.ibb.co/SBbPBQd/evo2-1.png)
+![](https://ibb.co/X5RNJzM)
